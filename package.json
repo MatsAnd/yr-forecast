@@ -1,0 +1,17 @@
+{
+  "name": "yr-forecast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mats Andreassen <matsand@live.no> (https://github.com/matsand)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.19.2",
+    "fast-xml-parser": "3.16.0",
+    "point-in-polygon-hao": "0.0.7"
+  }
+}
