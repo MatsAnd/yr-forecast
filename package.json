@@ -6,9 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatsAnd/yr-forecast.git"
+  },
+  "keywords": [
+    "met.no",
+    "yr"
+  ],
   "author": "Mats Andreassen <matsand@live.no> (https://github.com/matsand)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatsAnd/yr-forecast/issues"
+  },
+  "homepage": "https://github.com/MatsAnd/yr-forecast#readme",
   "dependencies": {
     "axios": "0.19.2",
     "fast-xml-parser": "3.16.0",
