@@ -81,7 +81,7 @@ const yr = require('yr-forecast')
 const lat = 59.2667259
 const lon = 10.4045301
 
-const forecast = await yr.getForecast(lat, lon)
+const forecast = await yr.getNowcast(lat, lon)
 ```
 
 #### Returns
