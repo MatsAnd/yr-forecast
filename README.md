@@ -69,7 +69,7 @@ const forecast = await yr.getForecast(lat, lon)
 ]
 ```
 
-### Get nowcast for a specific place
+### Get precipitation forecast for a specific place
 This returns the forcast for the next two hours.
 
 The output is precipitation with unit mm/h. Currently only the area where we have radar coverage is supported. If the requests is outside the supported range, an error is thrown.
