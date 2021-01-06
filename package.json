@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/MatsAnd/yr-forecast#readme",
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "fast-xml-parser": "3.16.0",
     "point-in-polygon-hao": "0.0.7"
   }
